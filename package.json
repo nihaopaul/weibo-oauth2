@@ -1,7 +1,7 @@
 {
   "name" : "weibo-oauth2-1",
   "description" : "dont use this package, if pull requests are accepted then you wont need this use weibo-oauth2 package from npm",
-  "version" : "0.0.3",
+  "version" : "0.0.4",
   "directories" : {
     "lib": "./lib"
   },
