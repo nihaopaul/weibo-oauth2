@@ -1,7 +1,7 @@
 {
   "name" : "weibo-oauth2",
   "description" : "Library for interacting with Weibo API V2 via OAuth 2.",
-  "version" : "0.0.1",
+  "version" : "0.0.2",
   "directories" : {
     "lib": "./lib"
   },
